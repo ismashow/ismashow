@@ -1,1 +1,1 @@
-![Banner topo](./assets/bannertopogithub.gif)
+![Banner topo](./bannertopogithub.gif)
