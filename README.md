@@ -8,6 +8,6 @@ Tenho um pouco de defict de atenção, o que às vezes significa pensar em dez c
 
 ### Interesses
 
-- **Música**: Gosto de vários estilos, como **rock**🎸, **rap**🎤, **pagode**🪕, **reggae**🇪🇹 e **forró**🪗.
+- **Música**: Gosto de vários estilos, como **rock**🎸, **rap**🎤, **pagode**🪕, **reggae** 🇪🇹 e **forró**🪗.
 - **Série**: Minha favorita é **_Silicon Valley_**.
 - **Hobbies**: Amo ir à praia e fazer trilhas🌄.
