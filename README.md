@@ -62,7 +62,7 @@ Alguns dos meus experimentos envolvem:
 
 Não são projetos “de produção”, mas sim playgrounds onde aprendo, erro, ajusto e descubro novas possibilidades.
 
-# Minhas Redes
+## Minhas Redes
 
 Quer trocar uma ideia? Gosto de conversar sobre tecnologia, descentralização, projetos experimentais e inovação.
 Pode me chamar:
