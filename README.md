@@ -75,3 +75,49 @@ Pode me chamar:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
+### 🚀 Último Commit: Easter Egg
+
+Se você chegou até aqui, parabéns! 👀  
+Entre códigos, projetos e cafés infinitos, sempre gosto de deixar um toque pessoal: um pouco de humor sutil para quem realmente explora tudo.
+
+
+- 🖥️ Momentos de programação na vida real:  
+<br><br>
+
+🤓 O típico **mlk digitando desesperado** tentando fazer tudo rodar direito:  
+
+🤖 **Tony Stark no Jarvis**, mostrando como a gente sonha em codar:  
+  
+🤯 E claro, aquele **Homer ou figurante desesperado** batendo no PC quando nada funciona:  
+
+<table>  
+  <tr>
+    <td><img src="computer-on-the-computer.gif" width="150"/></td>
+    <td></td>
+    <td><img src="tinkering-tony-stark.gif" width="150"/></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="Homer_Computer.gif" width="150"/></td>
+    <td></td>
+  </tr>
+
+</table>
+
+
+> Porque até os profissionais sérios merecem rir um pouco no final. 😎
+<br><br>
+<svg viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#00000" fill-opacity="0.7">
+    <animate 
+      attributeName="d" 
+      dur="8s" 
+      repeatCount="indefinite"
+      values="
+        M0,100 C480,200 960,0 1440,100 L1440,200 L0,200 Z;
+        M0,120 C480,0 960,200 1440,120 L1440,200 L0,200 Z;
+        M0,100 C480,200 960,0 1440,100 L1440,200 L0,200 Z
+      " />
+  </path>
+</svg>
