@@ -43,6 +43,6 @@ O que aparece aqui no GitHub é um reflexo das minhas explorações, estudos e t
 Nem tudo fica perfeito de primeira, mas é assim que vou aprendendo e evoluindo.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismashow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismashow&layout=compact&langs_count=7&theme=radical"/>
 </p>
