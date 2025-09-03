@@ -35,3 +35,14 @@ Atualmente venho aprendendo e praticando com Python, Flutter, FastAPI, PostgreSQ
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
+
+# Projetos e Estatísticas
+
+Gosto de colocar a mão na massa em projetos que misturam curiosidade e desafio: desde sistemas distribuídos até experimentos com IA e automação.
+O que aparece aqui no GitHub é um reflexo das minhas explorações, estudos e tentativas de transformar ideias em algo prático.
+Nem tudo fica perfeito de primeira, mas é assim que vou aprendendo e evoluindo.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=radical"/>
+</p>
