@@ -64,7 +64,8 @@ Não são projetos “de produção”, mas sim playgrounds onde aprendo, erro, 
 
 # Minhas Redes
 
-Vamos conversar? Adoro trocar ideias sobre tecnologia, descentralização, projetos experimentais e inovação!
+Quer trocar uma ideia? Gosto de conversar sobre tecnologia, descentralização, projetos experimentais e inovação.
+Pode me chamar:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ismaelbispo" target="_blank">
