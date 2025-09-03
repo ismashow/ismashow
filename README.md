@@ -46,3 +46,13 @@ Nem tudo fica perfeito de primeira, mas é assim que vou aprendendo e evoluindo.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismashow&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismashow&layout=compact&langs_count=7&theme=radical"/>
 </p>
+
+### Projetos Experimentais
+
+Curto explorar ideias fora do comum e colocar em prática coisas que normalmente ficam só na teoria.
+Alguns dos meus experimentos envolvem:
+Dark web → criando ambientes de estudo para entender segurança, privacidade e anonimato.
+Descentralização → testando soluções que fogem do modelo centralizado tradicional, desde mensageria até marketplaces.
+IA aplicada → usando modelos para resolver problemas de forma criativa e, às vezes, inesperada.
+DevOps e automação → porque nada melhor que ver processos rodando sozinhos depois de muito café e debug.
+Não são projetos “de produção”, mas sim playgrounds onde aprendo, erro, ajusto e descubro novas possibilidades.
