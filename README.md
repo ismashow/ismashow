@@ -12,7 +12,7 @@ Tenho um pouco de defict de atenção, o que às vezes significa pensar em dez c
 - **Série**: Minha favorita é **_Silicon Valley_**.
 - **Hobbies**: Amo ir à praia e fazer trilhas🌄.
 
-# Skills
+# Ferramentas e Tecnologias
 
 Tenho explorado ferramentas e linguagens que me ajudam a construir desde protótipos rápidos até sistemas mais complexos.
 Atualmente venho aprendendo e praticando com Python, Flutter, FastAPI, PostgreSQL e Docker/Podman, além de me aventurar em conceitos de IA e computação distribuída. 
