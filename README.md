@@ -61,3 +61,19 @@ Alguns dos meus experimentos envolvem:
 **DevOps e automação** → porque nada melhor que ver processos rodando sozinhos depois de muito café e debug.
 
 Não são projetos “de produção”, mas sim playgrounds onde aprendo, erro, ajusto e descubro novas possibilidades.
+
+# Minhas Redes
+
+Vamos conversar? Adoro trocar ideias sobre tecnologia, descentralização, projetos experimentais e inovação!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
