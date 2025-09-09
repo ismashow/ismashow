@@ -89,7 +89,7 @@ Entre códigos, projetos e cafés infinitos, sempre gosto de deixar um toque pes
 
 🤖 **Tony Stark no Jarvis**, mostrando como a gente sonha em codar:  
   
-🤯 E claro, aquele **Homer ou figurante desesperado** batendo no PC quando nada funciona:  
+🤯 E claro, aquele **Homer desesperado** batendo no PC quando nada funciona:  
 
 <table>  
   <tr>
